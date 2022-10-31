@@ -1,0 +1,16 @@
+live server
+prettier
+one dark pro theme
+autosave - delay for autosave
+
+
+html is used to create the structure of a web page
+
+HTML (to cover)----
+Basic Tags
+Table ,Forms
+List
+Semantics(Footer, header etc.)
+
+
+element includes both opening and closing tags and the content in between

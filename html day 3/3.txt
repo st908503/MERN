@@ -1,0 +1,17 @@
+video, audio, metatag, anchor tag, semantic tags
+
+
+meta tag- gives information about the page in different ways(title, description,by making the page responsive)
+
+UTF8 is used to specify all sorts of character set that includes emoji and all. It is used to ensure all charactes are visble propely on the page
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> is used to make sure if the page is compatible on any browser
+
+viewport is used fopr responsiveness
+description is used to give the description about the webite to the browser
+ <meta name="description" content="This is an HTML practice class">
+
+
+semantic tag - a parant element for containing multiple elements
+
+eg- div,header, footer, nav, navbar, aside, beside, caption
